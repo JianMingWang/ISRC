@@ -1,0 +1,13 @@
+C:\Users\健铭\Desktop\ScienceSystem\code\ISRC\DBUtility\bin\Release\ISRC.DBUtility.dll
+C:\Users\健铭\Desktop\ScienceSystem\code\ISRC\DBUtility\bin\Release\MySql.Data.dll
+C:\Users\健铭\Desktop\ScienceSystem\code\ISRC\DBUtility\bin\Release\System.Data.SQLite.DLL
+C:\Users\健铭\Desktop\ScienceSystem\code\ISRC\DBUtility\obj\Release\ISRC.DBUtility.dll
+C:\项目\ScienceSystem\code1109\ISRC\DBUtility\bin\Release\ISRC.DBUtility.dll
+C:\项目\ScienceSystem\code1109\ISRC\DBUtility\bin\Release\MySql.Data.dll
+C:\项目\ScienceSystem\code1109\ISRC\DBUtility\bin\Release\System.Data.SQLite.DLL
+C:\项目\ScienceSystem\code1109\ISRC\DBUtility\obj\Release\ISRC.DBUtility.dll
+C:\项目文件\科技创新\ScienceSystem\code1118\ISRC\DBUtility\bin\Release\ISRC.DBUtility.dll
+C:\项目文件\科技创新\ScienceSystem\code1118\ISRC\DBUtility\bin\Release\MySql.Data.dll
+C:\项目文件\科技创新\ScienceSystem\code1118\ISRC\DBUtility\bin\Release\System.Data.SQLite.DLL
+C:\项目文件\科技创新\ScienceSystem\code1118\ISRC\DBUtility\obj\Release\DBUtility.csprojResolveAssemblyReference.cache
+C:\项目文件\科技创新\ScienceSystem\code1118\ISRC\DBUtility\obj\Release\ISRC.DBUtility.dll

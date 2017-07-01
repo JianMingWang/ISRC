@@ -1,0 +1,9 @@
+﻿.x-grid-row.highlight td {
+    background-color: lightgreen;
+    background-image: none;
+}
+ 
+.x-grid-row-selected.highlight td {
+    background-color: yellow;
+    background-image: none;
+}
