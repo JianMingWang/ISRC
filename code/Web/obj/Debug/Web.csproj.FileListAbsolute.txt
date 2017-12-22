@@ -517,3 +517,26 @@ C:\Users\10343\Desktop\科技局\ISRC1225\Web\obj\Debug\ISRC.Web.Global.resource
 C:\Users\10343\Desktop\科技局\ISRC1225\Web\obj\Debug\Web.csproj.GenerateResource.Cache
 C:\Users\10343\Desktop\科技局\ISRC1225\Web\obj\Debug\ISRC.Web.dll
 C:\Users\10343\Desktop\科技局\ISRC1225\Web\obj\Debug\ISRC.Web.pdb
+C:\Users\Wong Jianming\Desktop\ISRC\code\Web\bin\ISRC.Web.dll.config
+C:\Users\Wong Jianming\Desktop\ISRC\code\Web\bin\ISRC.Web.dll
+C:\Users\Wong Jianming\Desktop\ISRC\code\Web\bin\ISRC.Web.pdb
+C:\Users\Wong Jianming\Desktop\ISRC\code\Web\bin\ISRC.BLL.dll
+C:\Users\Wong Jianming\Desktop\ISRC\code\Web\bin\ISRC.Model.dll
+C:\Users\Wong Jianming\Desktop\ISRC\code\Web\bin\ISRC.DAL.dll
+C:\Users\Wong Jianming\Desktop\ISRC\code\Web\bin\OpenSmtp.dll
+C:\Users\Wong Jianming\Desktop\ISRC\code\Web\bin\Excel.dll
+C:\Users\Wong Jianming\Desktop\ISRC\code\Web\bin\COM.Excel.dll
+C:\Users\Wong Jianming\Desktop\ISRC\code\Web\bin\ISRC.DBUtility.dll
+C:\Users\Wong Jianming\Desktop\ISRC\code\Web\bin\System.Data.SQLite.dll
+C:\Users\Wong Jianming\Desktop\ISRC\code\Web\bin\MySql.Data.dll
+C:\Users\Wong Jianming\Desktop\ISRC\code\Web\bin\ISRC.BLL.pdb
+C:\Users\Wong Jianming\Desktop\ISRC\code\Web\bin\ISRC.Model.pdb
+C:\Users\Wong Jianming\Desktop\ISRC\code\Web\bin\ISRC.DAL.pdb
+C:\Users\Wong Jianming\Desktop\ISRC\code\Web\bin\ISRC.DBUtility.pdb
+C:\Users\Wong Jianming\Desktop\ISRC\code\Web\obj\Debug\Web.csprojResolveAssemblyReference.cache
+C:\Users\Wong Jianming\Desktop\ISRC\code\Web\obj\Debug\ISRC.Web.Controls.CheckRight.resources
+C:\Users\Wong Jianming\Desktop\ISRC\code\Web\obj\Debug\ISRC.Web.Controls.CopyRight1.resources
+C:\Users\Wong Jianming\Desktop\ISRC\code\Web\obj\Debug\ISRC.Web.Global.resources
+C:\Users\Wong Jianming\Desktop\ISRC\code\Web\obj\Debug\Web.csproj.GenerateResource.Cache
+C:\Users\Wong Jianming\Desktop\ISRC\code\Web\obj\Debug\ISRC.Web.dll
+C:\Users\Wong Jianming\Desktop\ISRC\code\Web\obj\Debug\ISRC.Web.pdb
