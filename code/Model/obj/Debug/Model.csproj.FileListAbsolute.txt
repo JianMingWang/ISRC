@@ -57,3 +57,8 @@ D:\ScienceSystem\ISRC1203\Model\bin\Debug\ISRC.Model.pdb
 D:\ScienceSystem\ISRC1203\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
 D:\ScienceSystem\ISRC1203\Model\obj\Debug\ISRC.Model.dll
 D:\ScienceSystem\ISRC1203\Model\obj\Debug\ISRC.Model.pdb
+C:\Users\Wong Jianming\Desktop\ISRC\code\Model\bin\Debug\ISRC.Model.dll
+C:\Users\Wong Jianming\Desktop\ISRC\code\Model\bin\Debug\ISRC.Model.pdb
+C:\Users\Wong Jianming\Desktop\ISRC\code\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+C:\Users\Wong Jianming\Desktop\ISRC\code\Model\obj\Debug\ISRC.Model.dll
+C:\Users\Wong Jianming\Desktop\ISRC\code\Model\obj\Debug\ISRC.Model.pdb

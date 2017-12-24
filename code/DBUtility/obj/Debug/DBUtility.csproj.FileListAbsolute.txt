@@ -80,3 +80,8 @@ D:\ScienceSystem\ISRC1203\DBUtility\bin\Debug\ISRC.DBUtility.pdb
 D:\ScienceSystem\ISRC1203\DBUtility\obj\Debug\DBUtility.csprojResolveAssemblyReference.cache
 D:\ScienceSystem\ISRC1203\DBUtility\obj\Debug\ISRC.DBUtility.dll
 D:\ScienceSystem\ISRC1203\DBUtility\obj\Debug\ISRC.DBUtility.pdb
+C:\Users\Wong Jianming\Desktop\ISRC\code\DBUtility\bin\Debug\ISRC.DBUtility.dll
+C:\Users\Wong Jianming\Desktop\ISRC\code\DBUtility\bin\Debug\ISRC.DBUtility.pdb
+C:\Users\Wong Jianming\Desktop\ISRC\code\DBUtility\obj\Debug\DBUtility.csprojResolveAssemblyReference.cache
+C:\Users\Wong Jianming\Desktop\ISRC\code\DBUtility\obj\Debug\ISRC.DBUtility.dll
+C:\Users\Wong Jianming\Desktop\ISRC\code\DBUtility\obj\Debug\ISRC.DBUtility.pdb

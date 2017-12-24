@@ -158,3 +158,13 @@ D:\ScienceSystem\ISRC1203\DAL\bin\Debug\ISRC.Model.pdb
 D:\ScienceSystem\ISRC1203\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
 D:\ScienceSystem\ISRC1203\DAL\obj\Debug\ISRC.DAL.dll
 D:\ScienceSystem\ISRC1203\DAL\obj\Debug\ISRC.DAL.pdb
+C:\Users\Wong Jianming\Desktop\ISRC\code\DAL\bin\Debug\ISRC.DAL.dll
+C:\Users\Wong Jianming\Desktop\ISRC\code\DAL\bin\Debug\ISRC.DAL.pdb
+C:\Users\Wong Jianming\Desktop\ISRC\code\DAL\bin\Debug\ISRC.DBUtility.dll
+C:\Users\Wong Jianming\Desktop\ISRC\code\DAL\bin\Debug\ISRC.Model.dll
+C:\Users\Wong Jianming\Desktop\ISRC\code\DAL\bin\Debug\System.Data.SQLite.dll
+C:\Users\Wong Jianming\Desktop\ISRC\code\DAL\bin\Debug\ISRC.DBUtility.pdb
+C:\Users\Wong Jianming\Desktop\ISRC\code\DAL\bin\Debug\ISRC.Model.pdb
+C:\Users\Wong Jianming\Desktop\ISRC\code\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Wong Jianming\Desktop\ISRC\code\DAL\obj\Debug\ISRC.DAL.dll
+C:\Users\Wong Jianming\Desktop\ISRC\code\DAL\obj\Debug\ISRC.DAL.pdb
