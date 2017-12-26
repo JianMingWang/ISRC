@@ -188,3 +188,13 @@ C:\Users\Wong Jianming\Desktop\ISRC171222\DAL\bin\Debug\ISRC.Model.pdb
 C:\Users\Wong Jianming\Desktop\ISRC171222\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
 C:\Users\Wong Jianming\Desktop\ISRC171222\DAL\obj\Debug\ISRC.DAL.dll
 C:\Users\Wong Jianming\Desktop\ISRC171222\DAL\obj\Debug\ISRC.DAL.pdb
+C:\Users\Wong Jianming\Desktop\ISRC\code1224\DAL\bin\Debug\ISRC.DAL.dll
+C:\Users\Wong Jianming\Desktop\ISRC\code1224\DAL\bin\Debug\ISRC.DAL.pdb
+C:\Users\Wong Jianming\Desktop\ISRC\code1224\DAL\bin\Debug\ISRC.DBUtility.dll
+C:\Users\Wong Jianming\Desktop\ISRC\code1224\DAL\bin\Debug\ISRC.Model.dll
+C:\Users\Wong Jianming\Desktop\ISRC\code1224\DAL\bin\Debug\System.Data.SQLite.dll
+C:\Users\Wong Jianming\Desktop\ISRC\code1224\DAL\bin\Debug\ISRC.DBUtility.pdb
+C:\Users\Wong Jianming\Desktop\ISRC\code1224\DAL\bin\Debug\ISRC.Model.pdb
+C:\Users\Wong Jianming\Desktop\ISRC\code1224\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Wong Jianming\Desktop\ISRC\code1224\DAL\obj\Debug\ISRC.DAL.dll
+C:\Users\Wong Jianming\Desktop\ISRC\code1224\DAL\obj\Debug\ISRC.DAL.pdb

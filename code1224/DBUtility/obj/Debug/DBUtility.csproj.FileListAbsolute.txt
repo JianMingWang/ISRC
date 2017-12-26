@@ -95,3 +95,8 @@ C:\Users\Wong Jianming\Desktop\ISRC171222\DBUtility\bin\Debug\ISRC.DBUtility.pdb
 C:\Users\Wong Jianming\Desktop\ISRC171222\DBUtility\obj\Debug\DBUtility.csprojResolveAssemblyReference.cache
 C:\Users\Wong Jianming\Desktop\ISRC171222\DBUtility\obj\Debug\ISRC.DBUtility.dll
 C:\Users\Wong Jianming\Desktop\ISRC171222\DBUtility\obj\Debug\ISRC.DBUtility.pdb
+C:\Users\Wong Jianming\Desktop\ISRC\code1224\DBUtility\bin\Debug\ISRC.DBUtility.dll
+C:\Users\Wong Jianming\Desktop\ISRC\code1224\DBUtility\bin\Debug\ISRC.DBUtility.pdb
+C:\Users\Wong Jianming\Desktop\ISRC\code1224\DBUtility\obj\Debug\DBUtility.csprojResolveAssemblyReference.cache
+C:\Users\Wong Jianming\Desktop\ISRC\code1224\DBUtility\obj\Debug\ISRC.DBUtility.dll
+C:\Users\Wong Jianming\Desktop\ISRC\code1224\DBUtility\obj\Debug\ISRC.DBUtility.pdb

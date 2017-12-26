@@ -13,7 +13,7 @@
             <Toolbars>
                 <f:Toolbar ID="toolbar_01" runat="server">
                     <Items>
-                        <f:Button ID="btnClose" runat="server" Text="关闭" Icon="SystemClose" OnClick="btnClose_Click"></f:Button>
+                        <f:Button ID="btnClose" runat="server" Text="关闭" Icon="SystemClose"></f:Button>
                         <f:Button ID="btnSave" runat="server" Text="保存" OnClick="btnSave_Click" Icon="SystemSave"></f:Button>
                     </Items>
                 </f:Toolbar>

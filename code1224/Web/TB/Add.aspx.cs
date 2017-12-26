@@ -13,7 +13,7 @@ namespace ISRC.Web.TB
         {
             if (!IsPostBack)
             {
-                //btnClose.OnClientClick = ActiveWindow.GetHideReference();
+                btnClose.OnClientClick = ActiveWindow.GetHideReference();
                 dapFillDate.SelectedDate = DateTime.Now;
                 nbxYear.Text = DateTime.Now.Year.ToString();
             }
@@ -26,7 +26,7 @@ namespace ISRC.Web.TB
             PublicMethod.cycleList(ddlCycleList, ddlCycle.SelectedValue.ToString().Trim());
             PublicMethod.SetDdlSelected(index, month, ddlCycleList);
         }
-        
+
         protected void nbxYear_TextChanged(object sender, EventArgs e)
         {
             if (nbxYear.Text == "")
@@ -43,6 +43,10 @@ namespace ISRC.Web.TB
             }
             else
             {
+                #region 点击增加指标后 禁用报表类型下拉框
+                ddlCycle.Enabled = false;
+                #endregion
+
                 BLL.T_Report bllReport = new BLL.T_Report();
                 BLL.vw_Dept_Index bllDeptIndex = new BLL.vw_Dept_Index();
 
@@ -104,14 +108,15 @@ namespace ISRC.Web.TB
                         PageContext.RegisterStartupScript(Confirm.GetShowReference("已存在该报表，是否转到该报表？", "提示",
                         MessageBoxIcon.Question,
                         pageManager_01.GetCustomEventReference("confirm_goto_Y"),
-                        pageManager_01.GetCustomEventReference("")));
+                        pageManager_01.GetCustomEventReference("confirm_goto_N")));
                     }
                 }
                 else
                 {
                     #region 查询报表类型的对应指标
                     StringBuilder strSql_DeptIndex = new StringBuilder();
-                    strSql_DeptIndex.Append(" Index_Cycle='" + cycle + "'");
+                    //此处填报指标应包含 不受限 指标
+                    strSql_DeptIndex.Append(" Index_Cycle = '" + cycle + "' or Index_Cycle = '0' ");
                     strSql_DeptIndex.Append(" and Dept_ID='" + deptID + "'");
                     DataSet dsDeptIndex = bllDeptIndex.GetList(strSql_DeptIndex.ToString());
                     #endregion
@@ -220,7 +225,7 @@ namespace ISRC.Web.TB
                     }
                     else
                     {
-                        Alert.ShowInTop("报表添加失败！", "错误", MessageBoxIcon.Error, 
+                        Alert.ShowInTop("报表添加失败！", "错误", MessageBoxIcon.Error,
                             ActiveWindow.GetHidePostBackReference("Main_Add_Fail"));
                     }
                 }
@@ -243,7 +248,12 @@ namespace ISRC.Web.TB
             {
                 Response.Redirect("Modify.aspx?id=" + Session["ReportID"].ToString());
             }
-            else if(e.EventArgument== "confirm_close_Y")
+            else if (e.EventArgument == "confirm_goto_N")
+            {
+                //将禁用的下拉框恢复可用状态
+                ddlCycle.Enabled = true;
+            }
+            else if (e.EventArgument == "confirm_close_Y")
             {
                 if (btnIndex.Hidden == true)
                 {
@@ -254,15 +264,6 @@ namespace ISRC.Web.TB
                 }
                 PageContext.RegisterStartupScript(ActiveWindow.GetHideReference());
             }
-        }
-
-        protected void btnClose_Click(object sender, EventArgs e)
-        {
-            PageContext.RegisterStartupScript(Confirm.GetShowReference("关闭后页面内容不做保存，是否关闭？", "提示",
-                    MessageBoxIcon.Question,
-                    pageManager_01.GetCustomEventReference("confirm_close_Y"), 
-                    pageManager_01.GetCustomEventReference("")));
-            
         }
     }
 }

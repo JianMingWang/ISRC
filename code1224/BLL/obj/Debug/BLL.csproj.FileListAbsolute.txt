@@ -345,3 +345,16 @@ C:\Users\Wong Jianming\Desktop\ISRC171222\BLL\bin\Debug\ISRC.Model.pdb
 C:\Users\Wong Jianming\Desktop\ISRC171222\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
 C:\Users\Wong Jianming\Desktop\ISRC171222\BLL\obj\Debug\ISRC.BLL.dll
 C:\Users\Wong Jianming\Desktop\ISRC171222\BLL\obj\Debug\ISRC.BLL.pdb
+C:\Users\Wong Jianming\Desktop\ISRC\code1224\BLL\bin\Debug\ISRC.BLL.dll
+C:\Users\Wong Jianming\Desktop\ISRC\code1224\BLL\bin\Debug\ISRC.BLL.pdb
+C:\Users\Wong Jianming\Desktop\ISRC\code1224\BLL\bin\Debug\ISRC.DAL.dll
+C:\Users\Wong Jianming\Desktop\ISRC\code1224\BLL\bin\Debug\ISRC.DBUtility.dll
+C:\Users\Wong Jianming\Desktop\ISRC\code1224\BLL\bin\Debug\ISRC.Model.dll
+C:\Users\Wong Jianming\Desktop\ISRC\code1224\BLL\bin\Debug\System.Data.SQLite.dll
+C:\Users\Wong Jianming\Desktop\ISRC\code1224\BLL\bin\Debug\MySql.Data.dll
+C:\Users\Wong Jianming\Desktop\ISRC\code1224\BLL\bin\Debug\ISRC.DAL.pdb
+C:\Users\Wong Jianming\Desktop\ISRC\code1224\BLL\bin\Debug\ISRC.DBUtility.pdb
+C:\Users\Wong Jianming\Desktop\ISRC\code1224\BLL\bin\Debug\ISRC.Model.pdb
+C:\Users\Wong Jianming\Desktop\ISRC\code1224\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\Wong Jianming\Desktop\ISRC\code1224\BLL\obj\Debug\ISRC.BLL.dll
+C:\Users\Wong Jianming\Desktop\ISRC\code1224\BLL\obj\Debug\ISRC.BLL.pdb

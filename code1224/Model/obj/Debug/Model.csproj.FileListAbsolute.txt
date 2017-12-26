@@ -72,3 +72,8 @@ C:\Users\Wong Jianming\Desktop\ISRC171222\Model\bin\Debug\ISRC.Model.pdb
 C:\Users\Wong Jianming\Desktop\ISRC171222\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
 C:\Users\Wong Jianming\Desktop\ISRC171222\Model\obj\Debug\ISRC.Model.dll
 C:\Users\Wong Jianming\Desktop\ISRC171222\Model\obj\Debug\ISRC.Model.pdb
+C:\Users\Wong Jianming\Desktop\ISRC\code1224\Model\bin\Debug\ISRC.Model.dll
+C:\Users\Wong Jianming\Desktop\ISRC\code1224\Model\bin\Debug\ISRC.Model.pdb
+C:\Users\Wong Jianming\Desktop\ISRC\code1224\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+C:\Users\Wong Jianming\Desktop\ISRC\code1224\Model\obj\Debug\ISRC.Model.dll
+C:\Users\Wong Jianming\Desktop\ISRC\code1224\Model\obj\Debug\ISRC.Model.pdb
