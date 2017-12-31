@@ -29,8 +29,8 @@
                         <f:WindowField Width="60px" Hidden="true" WindowID="windowPop" TextAlign="Center" HeaderText="编辑" Icon="ApplicationEdit"
                                                 ToolTip="编辑" />
                         <f:BoundField Width="120px" ColumnID="DeptName" SortField="Dept_Name" DataField="Dept_Name" TextAlign="Center" HeaderText="单位名称"></f:BoundField>
-                        <f:BoundField Width="150px" ColumnID="Name" SortField="Index_Name" DataField="Index_Name" TextAlign="Center" HeaderText="子指标名称"></f:BoundField>
-                        <f:BoundField Width="150px" ColumnID="FatherName" SortField="FatherName" DataField="FatherName" TextAlign="Center" HeaderText="大类指标"></f:BoundField>
+                        <f:BoundField Width="150px" ColumnID="Name" SortField="Index_Name" DataField="Index_Name" TextAlign="Left" HeaderText="子指标名称"></f:BoundField>
+                        <f:BoundField Width="150px" ColumnID="FatherName" SortField="FatherName" DataField="FatherName" TextAlign="Left" HeaderText="大类指标"></f:BoundField>
                         <f:BoundField Width="250px" ColumnID="Index_Description" SortField="Index_Description" DataField="Index_Description" TextAlign="Center" HeaderText="描述"></f:BoundField>
                         <f:BoundField Width="120px" ColumnID="Dept_ID" SortField="Dept_ID" DataField="Dept_ID" TextAlign="Center" HeaderText="单位编号" Hidden="true"></f:BoundField>
                         <f:BoundField Width="120px" ColumnID="Index_Id" SortField="Index_Id" DataField="Index_Id" TextAlign="Center" HeaderText="制表编号" Hidden="true"></f:BoundField>

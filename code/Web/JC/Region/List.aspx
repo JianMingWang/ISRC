@@ -30,9 +30,9 @@
                         <f:WindowField Width="60px" WindowID="windowPop" TextAlign="Center" HeaderText="编辑" Icon="ApplicationEdit"
                             ToolTip="编辑" DataTextFormatString="{0}" DataIFrameUrlFields="ID" DataIFrameUrlFormatString="Modify.aspx?id={0}"
                             DataWindowTitleField="MaterialName" DataWindowTitleFormatString="编辑 - {0}" />
-                        <f:BoundField Width="120px" ColumnID="RegionNO" SortField="RegionNO" DataField="ID"
+                        <f:BoundField Width="120px" ColumnID="ID" SortField="ID" DataField="ID"
                                     TextAlign="Center" HeaderText="地区编号"></f:BoundField>
-                        <f:BoundField Width="150px" ColumnID="RegionName" SortField="RegionName" DataField="Name"
+                        <f:BoundField Width="150px" ColumnID="Name" SortField="Name" DataField="Name"
                                     TextAlign="Center" HeaderText="地区名称"></f:BoundField>
                     </Columns>
                 </f:Grid>

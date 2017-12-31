@@ -80,8 +80,23 @@ D:\ScienceSystem\ISRC1203\DBUtility\bin\Debug\ISRC.DBUtility.pdb
 D:\ScienceSystem\ISRC1203\DBUtility\obj\Debug\DBUtility.csprojResolveAssemblyReference.cache
 D:\ScienceSystem\ISRC1203\DBUtility\obj\Debug\ISRC.DBUtility.dll
 D:\ScienceSystem\ISRC1203\DBUtility\obj\Debug\ISRC.DBUtility.pdb
-C:\Users\Wong Jianming\Desktop\ISRC\code\DBUtility\bin\Debug\ISRC.DBUtility.dll
-C:\Users\Wong Jianming\Desktop\ISRC\code\DBUtility\bin\Debug\ISRC.DBUtility.pdb
-C:\Users\Wong Jianming\Desktop\ISRC\code\DBUtility\obj\Debug\DBUtility.csprojResolveAssemblyReference.cache
-C:\Users\Wong Jianming\Desktop\ISRC\code\DBUtility\obj\Debug\ISRC.DBUtility.dll
-C:\Users\Wong Jianming\Desktop\ISRC\code\DBUtility\obj\Debug\ISRC.DBUtility.pdb
+C:\Users\kylinnnn\Desktop\科技局项目完整代码及文档\代码\ISRC170113\DBUtility\bin\Debug\ISRC.DBUtility.dll
+C:\Users\kylinnnn\Desktop\科技局项目完整代码及文档\代码\ISRC170113\DBUtility\bin\Debug\ISRC.DBUtility.pdb
+C:\Users\kylinnnn\Desktop\科技局项目完整代码及文档\代码\ISRC170113\DBUtility\obj\Debug\DBUtility.csprojResolveAssemblyReference.cache
+C:\Users\kylinnnn\Desktop\科技局项目完整代码及文档\代码\ISRC170113\DBUtility\obj\Debug\ISRC.DBUtility.dll
+C:\Users\kylinnnn\Desktop\科技局项目完整代码及文档\代码\ISRC170113\DBUtility\obj\Debug\ISRC.DBUtility.pdb
+D:\项目\科技局项目完整代码及文档\代码\ISRC170113\DBUtility\bin\Debug\ISRC.DBUtility.dll
+D:\项目\科技局项目完整代码及文档\代码\ISRC170113\DBUtility\bin\Debug\ISRC.DBUtility.pdb
+D:\项目\科技局项目完整代码及文档\代码\ISRC170113\DBUtility\obj\Debug\DBUtility.csprojResolveAssemblyReference.cache
+D:\项目\科技局项目完整代码及文档\代码\ISRC170113\DBUtility\obj\Debug\ISRC.DBUtility.dll
+D:\项目\科技局项目完整代码及文档\代码\ISRC170113\DBUtility\obj\Debug\ISRC.DBUtility.pdb
+C:\Users\Wong Jianming\Desktop\ISRC171222\DBUtility\bin\Debug\ISRC.DBUtility.dll
+C:\Users\Wong Jianming\Desktop\ISRC171222\DBUtility\bin\Debug\ISRC.DBUtility.pdb
+C:\Users\Wong Jianming\Desktop\ISRC171222\DBUtility\obj\Debug\DBUtility.csprojResolveAssemblyReference.cache
+C:\Users\Wong Jianming\Desktop\ISRC171222\DBUtility\obj\Debug\ISRC.DBUtility.dll
+C:\Users\Wong Jianming\Desktop\ISRC171222\DBUtility\obj\Debug\ISRC.DBUtility.pdb
+C:\Users\Wong Jianming\Desktop\ISRC\code1224\DBUtility\bin\Debug\ISRC.DBUtility.dll
+C:\Users\Wong Jianming\Desktop\ISRC\code1224\DBUtility\bin\Debug\ISRC.DBUtility.pdb
+C:\Users\Wong Jianming\Desktop\ISRC\code1224\DBUtility\obj\Debug\DBUtility.csprojResolveAssemblyReference.cache
+C:\Users\Wong Jianming\Desktop\ISRC\code1224\DBUtility\obj\Debug\ISRC.DBUtility.dll
+C:\Users\Wong Jianming\Desktop\ISRC\code1224\DBUtility\obj\Debug\ISRC.DBUtility.pdb

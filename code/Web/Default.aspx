@@ -101,24 +101,6 @@
                                         <Items>
                                             <f:Image runat="server" ImageUrl="~/Images/1.png" Margin="-5 0 0 0" />
                                         </Items>
-                                       <%-- <Items>
-                                            <f:ContentPanel ID="contentPanelTheme" ShowBorder="false" BodyPadding="10px" ShowHeader="false"
-                                                AutoScroll="true" runat="server">
-                                                <f:Label ID="lblTheme" runat="server" Text="主题"></f:Label>
-                                                <f:DropDownList ID="ddlTheme" Width="120px" AutoPostBack="true" OnSelectedIndexChanged="ddlTheme_SelectedIndexChanged" runat="server">
-                                                    <f:ListItem Text="Blue" Value="blue" />
-                                                    <f:ListItem Text="Gray" Selected="true" Value="gray" />
-                                                    <f:ListItem Text="Access" Value="access" />
-                                                    <f:ListItem Text="Neptune" Value="neptune" />
-                                                </f:DropDownList>
-                                                
-                                                <f:Label ID="lblMenuStyle" runat="server" Text="菜单样式"></f:Label>
-                                                <f:DropDownList ID="ddlMenuStyle" Width="120px" AutoPostBack="true" OnSelectedIndexChanged="ddlMenuStyle_SelectedIndexChanged" runat="server">
-                                                    <f:ListItem Text="手风琴" Value="accordion" Selected="true" />
-                                                    <f:ListItem Text="经典" Value="tree" />
-                                                </f:DropDownList>
-                                            </f:ContentPanel>
-                                        </Items>--%>
                                     </f:Tab>
                                 </Tabs>
                             </f:TabStrip>

@@ -8,7 +8,6 @@
 </head>
 <body>
     <form id="form_01" runat="server">
-    <div>
         <f:PageManager ID="PageManager_01" AutoSizePanelID="panelMain" runat="server" />
         <f:Panel ID="panelMain" runat="server" ShowBorder="false" ShowHeader="false" EnableCollapse="true" Layout="Fit">
             <Items>
@@ -38,7 +37,7 @@
                                 <asp:Label ID="lblQuality" runat="server" Text='<%# ISRC.Web.Code.PublicMethod.getKey("Quality",Eval("Quality").ToString()) %>'></asp:Label>
                             </ItemTemplate>
                         </f:TemplateField>
-                        <f:BoundField Width="100px" ColumnID="RegionName" SortField="RegionName" DataField="RegionName"
+                        <f:BoundField Width="100px" ColumnID="RegionID" SortField="RegionID" DataField="RegionID"
                                     TextAlign="Center" HeaderText="区编号"></f:BoundField>
                         <f:BoundField Width="100px" ColumnID="Contactor" SortField="Contactor" DataField="Contactor"
                                     TextAlign="Center" HeaderText="联系人"></f:BoundField>
@@ -53,7 +52,6 @@
         <f:Window ID="windowPop" Title="编辑"  EnableCollapse="false" Hidden="true" EnableIFrame="true" IFrameUrl="about:blank" CloseAction="HidePostBack" EnableMaximize="false"
             EnableResize="false" EnableClose="false" OnClose="windowPop_Close" Target="Top" IsModal="true" Width="850px" Height="450px" runat="server">
         </f:Window>
-    </div>
     </form>
 </body>
 </html>

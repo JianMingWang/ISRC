@@ -13,7 +13,7 @@
             <Toolbars>
                 <f:Toolbar ID="toolbar_01" runat="server">
                     <Items>
-                        <f:Button ID="btnClose" runat="server" Text="关闭" Icon="SystemClose" OnClick="btnClose_Click"></f:Button>
+                        <f:Button ID="btnClose" runat="server" Text="关闭" Icon="SystemClose"></f:Button>
                         <f:Button ID="btnSave" runat="server" Text="保存" OnClick="btnSave_Click" Icon="SystemSave"></f:Button>
                     </Items>
                 </f:Toolbar>
@@ -21,7 +21,7 @@
             <Items>
                 <f:Panel ID="panelBottom" runat="server" ShowBorder="false" ShowHeader="false" Layout="VBox">
                     <Items>
-                        <f:Panel ID="panelUp" runat="server" Width="400px" ShowBorder="false" ShowHeader="false">
+                        <f:Panel ID="panelUp" runat="server" BoxFlex="1" Width="400px" ShowBorder="false" ShowHeader="false" Layout="Fit">
                             <Items>
                                 <f:Form ID="formInfo_01" runat="server" ShowBorder="true" LabelAlign="left" ShowHeader="false"
                                      EnableCollapse="false" Expanded="true">
@@ -61,16 +61,14 @@
                                 </f:Form>
                             </Items>
                         </f:Panel>
-                        <f:Panel runat="server" ShowBorder="false" ShowHeader="false">
+                        <f:Panel ID="panelIndex" runat="server" BoxFlex="1" ShowBorder="false" ShowHeader="false" Title="填报指标" Layout="Fit" Hidden="false">
                             <Items>
-                                <f:Button ID="btnIndex" runat="server" Text="填报指标" OnClick="btnIndex_Click"></f:Button>
+                                <f:Button ID="btnIndex" Margin="60px" Size="Large" runat="server" Text="点此处填报指标" OnClick="btnIndex_Click"></f:Button>
                             </Items>
-                        </f:Panel>
-                        <f:Panel ID="panelIndex" runat="server" ShowBorder="false" ShowHeader="false" Title="填报指标" Hidden="true">
                             <Items>
                                 <f:Grid ID="gridIndex" runat="server" ShowBorder="false" ShowHeader="false" PageSize="5" AllowPaging="true"
-                                     IsDatabasePaging="true" DataKeyNames="ID,ReportID,IndexID,IndexName" OnPageIndexChange="gridIndex_PageIndexChange"
-                                     AllowCellEditing="true" ClicksToEdit="1">
+                                     IsDatabasePaging="true" EnableCollapse="true" DataKeyNames="ID,ReportID,IndexID,IndexName" OnPageIndexChange="gridIndex_PageIndexChange"
+                                     AllowCellEditing="true" ClicksToEdit="1" Hidden="true">
                                     <Columns>
                                         <f:BoundField Width="100px" Hidden="true" ColumnID="ID" SortField="ID" DataField="ID" TextAlign="Center" HeaderText="ID"></f:BoundField>
                                         <f:BoundField Width="100px" Hidden="true" ColumnID="ReportID" SortField="ReportID" DataField="ReportID" TextAlign="Center" HeaderText="父表ID"></f:BoundField>

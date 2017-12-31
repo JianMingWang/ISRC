@@ -108,7 +108,7 @@
             <Items>
                 <f:ContentPanel ID="ContentPanel1" BodyPadding="10px" EnableCollapse="false"
                     ShowHeader="true" runat="server" Title="查询结果" AutoScroll="true">
-                    <div id="resultDiv">
+                    <div id="resultDiv" style="padding-bottom:200px;">
                         <table id="tbResult" border="1" style="display: none;">
                         </table>
                     </div>

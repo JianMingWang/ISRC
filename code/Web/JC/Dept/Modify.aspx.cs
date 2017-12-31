@@ -1,44 +1,37 @@
-﻿using System;
-using FineUI;
+﻿using FineUI;
+using System;
 using System.Data;
-using System.Configuration;
-using System.Collections;
-using System.Web;
-using System.Web.Security;
-using System.Web.UI;
-using System.Web.UI.WebControls;
-using System.Web.UI.WebControls.WebParts;
-using System.Web.UI.HtmlControls;
 using System.Text;
-using Maticsoft.Common;
+using System.Web.UI;
 
 namespace ISRC.Web.T_Dept
 {
-    public partial class Modify : PageBase
+    public partial class Modify : System.Web.UI.Page
     {
 
         private StringBuilder condition = new StringBuilder();
 
         protected void Page_Load(object sender, EventArgs e)
-		{
-			if (!Page.IsPostBack)
-			{
+        {
+            if (!Page.IsPostBack)
+            {
                 btnClose.OnClientClick = ActiveWindow.GetHideReference();
                 tgbDeptRegionID.OnClientTriggerClick =
                     windowPop.GetSaveStateReference(tgbDeptRegionID.ClientID, hdfDeptNO.ClientID)
                     + windowPop.GetShowReference("~\\Trigger\\Region.aspx?Type=P", "选择地区");
-                LoadData();
-			}
-		}
+
+            }
+            LoadData();
+        }
 
         private void LoadData()
         {
-            condition.Append("T_Dept.ID='").Append(Request.QueryString["id"].ToString()).Append("'");
+            string _id = Context.Request.QueryString["id"].ToString().Trim();
+            condition.Append("T_Dept.ID='").Append(_id).Append("'");
 
             BLL.T_Dept bllDept = new BLL.T_Dept();
             DataSet dsDept = bllDept.GetList(condition.ToString());
             DataTable dtSource = dsDept.Tables[0];
-
 
             txtDeptID.Text = dtSource.Rows[0]["ID"].ToString();
             txbDeptName.Text = dtSource.Rows[0]["Name"].ToString();
@@ -48,7 +41,7 @@ namespace ISRC.Web.T_Dept
             txtDeptTel.Text = dtSource.Rows[0]["Tel"].ToString();
             nbxOderID.Text = dtSource.Rows[0]["OderID"].ToString();
             hdfDeptNO.Text = dtSource.Rows[0]["RegionID"].ToString();
-            if(dtSource.Rows[0]["Quality"].ToString()=="1")
+            if (dtSource.Rows[0]["Quality"].ToString() == "1")
             {
                 tgbDeptRegionID.Hidden = false;
             }

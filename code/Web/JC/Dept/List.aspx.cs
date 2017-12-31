@@ -20,7 +20,7 @@ namespace ISRC.Web.T_Dept
 
         protected void BindGrid()
         {
-            string strWhere = string.Format("1=1 ORDER BY T_Dept.OderID,CONVERT(int,T_Dept.ID)");
+            string strWhere = string.Format("1=1 ORDER BY T_Dept.OderID,CONVERT(int,T_Dept.ID)");//ORDER BY CONVERT(int,T_Dept.OderID)
 
             BLL.T_Dept bllDept = new BLL.T_Dept();
             DataSet dsDept = bllDept.GetList(strWhere);
@@ -45,7 +45,7 @@ namespace ISRC.Web.T_Dept
 
         protected void windowPop_Close(object sender, WindowCloseEventArgs e)
         {
-            this.BindGrid();
+            BindGrid();
         }
 
         protected void btnDelete_Click(object sender, EventArgs e)

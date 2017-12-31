@@ -157,15 +157,6 @@ namespace ISRC.Web.TB {
         protected global::FineUI.TextArea txaDescription;
         
         /// <summary>
-        /// btnIndex 控件。
-        /// </summary>
-        /// <remarks>
-        /// 自动生成的字段。
-        /// 若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
-        /// </remarks>
-        protected global::FineUI.Button btnIndex;
-        
-        /// <summary>
         /// panelIndex 控件。
         /// </summary>
         /// <remarks>
@@ -173,6 +164,15 @@ namespace ISRC.Web.TB {
         /// 若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
         /// </remarks>
         protected global::FineUI.Panel panelIndex;
+        
+        /// <summary>
+        /// btnIndex 控件。
+        /// </summary>
+        /// <remarks>
+        /// 自动生成的字段。
+        /// 若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
+        /// </remarks>
+        protected global::FineUI.Button btnIndex;
         
         /// <summary>
         /// gridIndex 控件。

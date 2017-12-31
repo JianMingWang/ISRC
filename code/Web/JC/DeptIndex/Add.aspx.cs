@@ -1,14 +1,7 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Web;
-using System.Web.UI;
-using System.Web.UI.WebControls;
+﻿using FineUI;
+using System;
 using System.Data;
 using System.Text;
-using FineUI;
-using System.Data.SqlClient;
-using ISRC;
-using ISRC.BLL;
 
 
 namespace ISRC.Web.JC.DeptIndex

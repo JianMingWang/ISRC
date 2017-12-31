@@ -1,10 +1,5 @@
-﻿using System;
-using FineUI;
-using System.Collections.Generic;
-using System.Linq;
-using System.Web;
-using System.Web.UI;
-using System.Web.UI.WebControls;
+﻿using FineUI;
+using System;
 using System.Data;
 
 namespace ISRC.Web.JC.Index

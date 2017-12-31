@@ -57,8 +57,23 @@ D:\ScienceSystem\ISRC1203\Model\bin\Debug\ISRC.Model.pdb
 D:\ScienceSystem\ISRC1203\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
 D:\ScienceSystem\ISRC1203\Model\obj\Debug\ISRC.Model.dll
 D:\ScienceSystem\ISRC1203\Model\obj\Debug\ISRC.Model.pdb
-C:\Users\Wong Jianming\Desktop\ISRC\code\Model\bin\Debug\ISRC.Model.dll
-C:\Users\Wong Jianming\Desktop\ISRC\code\Model\bin\Debug\ISRC.Model.pdb
-C:\Users\Wong Jianming\Desktop\ISRC\code\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
-C:\Users\Wong Jianming\Desktop\ISRC\code\Model\obj\Debug\ISRC.Model.dll
-C:\Users\Wong Jianming\Desktop\ISRC\code\Model\obj\Debug\ISRC.Model.pdb
+C:\Users\kylinnnn\Desktop\科技局项目完整代码及文档\代码\ISRC170113\Model\bin\Debug\ISRC.Model.dll
+C:\Users\kylinnnn\Desktop\科技局项目完整代码及文档\代码\ISRC170113\Model\bin\Debug\ISRC.Model.pdb
+C:\Users\kylinnnn\Desktop\科技局项目完整代码及文档\代码\ISRC170113\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+C:\Users\kylinnnn\Desktop\科技局项目完整代码及文档\代码\ISRC170113\Model\obj\Debug\ISRC.Model.dll
+C:\Users\kylinnnn\Desktop\科技局项目完整代码及文档\代码\ISRC170113\Model\obj\Debug\ISRC.Model.pdb
+D:\项目\科技局项目完整代码及文档\代码\ISRC170113\Model\bin\Debug\ISRC.Model.dll
+D:\项目\科技局项目完整代码及文档\代码\ISRC170113\Model\bin\Debug\ISRC.Model.pdb
+D:\项目\科技局项目完整代码及文档\代码\ISRC170113\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+D:\项目\科技局项目完整代码及文档\代码\ISRC170113\Model\obj\Debug\ISRC.Model.dll
+D:\项目\科技局项目完整代码及文档\代码\ISRC170113\Model\obj\Debug\ISRC.Model.pdb
+C:\Users\Wong Jianming\Desktop\ISRC171222\Model\bin\Debug\ISRC.Model.dll
+C:\Users\Wong Jianming\Desktop\ISRC171222\Model\bin\Debug\ISRC.Model.pdb
+C:\Users\Wong Jianming\Desktop\ISRC171222\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+C:\Users\Wong Jianming\Desktop\ISRC171222\Model\obj\Debug\ISRC.Model.dll
+C:\Users\Wong Jianming\Desktop\ISRC171222\Model\obj\Debug\ISRC.Model.pdb
+C:\Users\Wong Jianming\Desktop\ISRC\code1224\Model\bin\Debug\ISRC.Model.dll
+C:\Users\Wong Jianming\Desktop\ISRC\code1224\Model\bin\Debug\ISRC.Model.pdb
+C:\Users\Wong Jianming\Desktop\ISRC\code1224\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+C:\Users\Wong Jianming\Desktop\ISRC\code1224\Model\obj\Debug\ISRC.Model.dll
+C:\Users\Wong Jianming\Desktop\ISRC\code1224\Model\obj\Debug\ISRC.Model.pdb

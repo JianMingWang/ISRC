@@ -158,13 +158,43 @@ D:\ScienceSystem\ISRC1203\DAL\bin\Debug\ISRC.Model.pdb
 D:\ScienceSystem\ISRC1203\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
 D:\ScienceSystem\ISRC1203\DAL\obj\Debug\ISRC.DAL.dll
 D:\ScienceSystem\ISRC1203\DAL\obj\Debug\ISRC.DAL.pdb
-C:\Users\Wong Jianming\Desktop\ISRC\code\DAL\bin\Debug\ISRC.DAL.dll
-C:\Users\Wong Jianming\Desktop\ISRC\code\DAL\bin\Debug\ISRC.DAL.pdb
-C:\Users\Wong Jianming\Desktop\ISRC\code\DAL\bin\Debug\ISRC.DBUtility.dll
-C:\Users\Wong Jianming\Desktop\ISRC\code\DAL\bin\Debug\ISRC.Model.dll
-C:\Users\Wong Jianming\Desktop\ISRC\code\DAL\bin\Debug\System.Data.SQLite.dll
-C:\Users\Wong Jianming\Desktop\ISRC\code\DAL\bin\Debug\ISRC.DBUtility.pdb
-C:\Users\Wong Jianming\Desktop\ISRC\code\DAL\bin\Debug\ISRC.Model.pdb
-C:\Users\Wong Jianming\Desktop\ISRC\code\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
-C:\Users\Wong Jianming\Desktop\ISRC\code\DAL\obj\Debug\ISRC.DAL.dll
-C:\Users\Wong Jianming\Desktop\ISRC\code\DAL\obj\Debug\ISRC.DAL.pdb
+C:\Users\kylinnnn\Desktop\科技局项目完整代码及文档\代码\ISRC170113\DAL\bin\Debug\ISRC.DAL.dll
+C:\Users\kylinnnn\Desktop\科技局项目完整代码及文档\代码\ISRC170113\DAL\bin\Debug\ISRC.DAL.pdb
+C:\Users\kylinnnn\Desktop\科技局项目完整代码及文档\代码\ISRC170113\DAL\bin\Debug\ISRC.DBUtility.dll
+C:\Users\kylinnnn\Desktop\科技局项目完整代码及文档\代码\ISRC170113\DAL\bin\Debug\ISRC.Model.dll
+C:\Users\kylinnnn\Desktop\科技局项目完整代码及文档\代码\ISRC170113\DAL\bin\Debug\System.Data.SQLite.dll
+C:\Users\kylinnnn\Desktop\科技局项目完整代码及文档\代码\ISRC170113\DAL\bin\Debug\ISRC.DBUtility.pdb
+C:\Users\kylinnnn\Desktop\科技局项目完整代码及文档\代码\ISRC170113\DAL\bin\Debug\ISRC.Model.pdb
+C:\Users\kylinnnn\Desktop\科技局项目完整代码及文档\代码\ISRC170113\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\kylinnnn\Desktop\科技局项目完整代码及文档\代码\ISRC170113\DAL\obj\Debug\ISRC.DAL.dll
+C:\Users\kylinnnn\Desktop\科技局项目完整代码及文档\代码\ISRC170113\DAL\obj\Debug\ISRC.DAL.pdb
+D:\项目\科技局项目完整代码及文档\代码\ISRC170113\DAL\bin\Debug\ISRC.DAL.dll
+D:\项目\科技局项目完整代码及文档\代码\ISRC170113\DAL\bin\Debug\ISRC.DAL.pdb
+D:\项目\科技局项目完整代码及文档\代码\ISRC170113\DAL\bin\Debug\ISRC.DBUtility.dll
+D:\项目\科技局项目完整代码及文档\代码\ISRC170113\DAL\bin\Debug\ISRC.Model.dll
+D:\项目\科技局项目完整代码及文档\代码\ISRC170113\DAL\bin\Debug\System.Data.SQLite.dll
+D:\项目\科技局项目完整代码及文档\代码\ISRC170113\DAL\bin\Debug\ISRC.DBUtility.pdb
+D:\项目\科技局项目完整代码及文档\代码\ISRC170113\DAL\bin\Debug\ISRC.Model.pdb
+D:\项目\科技局项目完整代码及文档\代码\ISRC170113\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\项目\科技局项目完整代码及文档\代码\ISRC170113\DAL\obj\Debug\ISRC.DAL.dll
+D:\项目\科技局项目完整代码及文档\代码\ISRC170113\DAL\obj\Debug\ISRC.DAL.pdb
+C:\Users\Wong Jianming\Desktop\ISRC171222\DAL\bin\Debug\ISRC.DAL.dll
+C:\Users\Wong Jianming\Desktop\ISRC171222\DAL\bin\Debug\ISRC.DAL.pdb
+C:\Users\Wong Jianming\Desktop\ISRC171222\DAL\bin\Debug\ISRC.DBUtility.dll
+C:\Users\Wong Jianming\Desktop\ISRC171222\DAL\bin\Debug\ISRC.Model.dll
+C:\Users\Wong Jianming\Desktop\ISRC171222\DAL\bin\Debug\System.Data.SQLite.dll
+C:\Users\Wong Jianming\Desktop\ISRC171222\DAL\bin\Debug\ISRC.DBUtility.pdb
+C:\Users\Wong Jianming\Desktop\ISRC171222\DAL\bin\Debug\ISRC.Model.pdb
+C:\Users\Wong Jianming\Desktop\ISRC171222\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Wong Jianming\Desktop\ISRC171222\DAL\obj\Debug\ISRC.DAL.dll
+C:\Users\Wong Jianming\Desktop\ISRC171222\DAL\obj\Debug\ISRC.DAL.pdb
+C:\Users\Wong Jianming\Desktop\ISRC\code1224\DAL\bin\Debug\ISRC.DAL.dll
+C:\Users\Wong Jianming\Desktop\ISRC\code1224\DAL\bin\Debug\ISRC.DAL.pdb
+C:\Users\Wong Jianming\Desktop\ISRC\code1224\DAL\bin\Debug\ISRC.DBUtility.dll
+C:\Users\Wong Jianming\Desktop\ISRC\code1224\DAL\bin\Debug\ISRC.Model.dll
+C:\Users\Wong Jianming\Desktop\ISRC\code1224\DAL\bin\Debug\System.Data.SQLite.dll
+C:\Users\Wong Jianming\Desktop\ISRC\code1224\DAL\bin\Debug\ISRC.DBUtility.pdb
+C:\Users\Wong Jianming\Desktop\ISRC\code1224\DAL\bin\Debug\ISRC.Model.pdb
+C:\Users\Wong Jianming\Desktop\ISRC\code1224\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Wong Jianming\Desktop\ISRC\code1224\DAL\obj\Debug\ISRC.DAL.dll
+C:\Users\Wong Jianming\Desktop\ISRC\code1224\DAL\obj\Debug\ISRC.DAL.pdb

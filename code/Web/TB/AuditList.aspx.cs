@@ -1,13 +1,8 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Web;
-using System.Web.UI;
-using System.Web.UI.WebControls;
+﻿using FineUI;
+using ISRC.Web.Code;
+using System;
 using System.Data;
 using System.Text;
-using FineUI;
-using ISRC.Web.Code;
 
 namespace ISRC.Web.TB
 {

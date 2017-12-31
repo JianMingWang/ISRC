@@ -92,10 +92,12 @@
     <Content Include="bin\Newtonsoft.Json.dll" />
     <Content Include="bin\OpenSmtp.dll" />
     <Content Include="bin\System.Data.SQLite.dll" />
-    <Content Include="Controls\checkright.ascx" />
+    <Content Include="Components\checkright.ascx" />
     <Content Include="Controls\copyright.ascx" />
     <Content Include="CSS\css-table.css" />
     <Content Include="CSS\default.css" />
+    <Content Include="CSS\login\User_Login.css" />
+    <Content Include="CSS\login\xtree.css" />
     <Content Include="CSS\main.css" />
     <Content Include="CSS\mark.css" />
     <Content Include="CX\IndexList.aspx" />
@@ -3685,6 +3687,9 @@
     <Content Include="Js\jquery.min.js" />
     <Content Include="Login.aspx" />
     <Content Include="Menu.xml" />
+    <Content Include="obj\Release\ISRC.Web.dll" />
+    <Content Include="obj\Release\ISRC.Web.pdb" />
+    <Content Include="obj\Release\Web.csproj.FileListAbsolute.txt" />
     <Content Include="SYS\Account\Add.aspx" />
     <Content Include="SYS\Account\List.aspx" />
     <Content Include="SYS\Account\Modify.aspx" />
@@ -3718,11 +3723,11 @@
     </Compile>
     <Compile Include="Code\PublicMethod.cs" />
     <Compile Include="Code\StaticData.cs" />
-    <Compile Include="Controls\CheckRight.ascx.cs">
+    <Compile Include="Components\CheckRight.ascx.cs">
       <DependentUpon>checkright.ascx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Compile Include="Controls\CheckRight.ascx.designer.cs">
+    <Compile Include="Components\CheckRight.ascx.designer.cs">
       <DependentUpon>checkright.ascx</DependentUpon>
     </Compile>
     <Compile Include="Controls\CopyRight.ascx.cs">
@@ -3862,6 +3867,12 @@
     <Compile Include="MasterPage.master.designer.cs">
       <DependentUpon>MasterPage.master</DependentUpon>
     </Compile>
+    <Compile Include="obj\Debug\TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" />
+    <Compile Include="obj\Debug\TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs" />
+    <Compile Include="obj\Debug\TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs" />
+    <Compile Include="obj\Release\TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" />
+    <Compile Include="obj\Release\TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs" />
+    <Compile Include="obj\Release\TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="SYS\Account\Add.aspx.cs">
       <DependentUpon>Add.aspx</DependentUpon>
@@ -4010,7 +4021,7 @@
     <Content Include="Style.css" />
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="Controls\CheckRight.ascx.resx">
+    <EmbeddedResource Include="Components\CheckRight.ascx.resx">
       <DependentUpon>CheckRight.ascx.cs</DependentUpon>
       <SubType>Designer</SubType>
     </EmbeddedResource>
@@ -4022,6 +4033,9 @@
       <DependentUpon>Global.asax.cs</DependentUpon>
       <SubType>Designer</SubType>
     </EmbeddedResource>
+    <EmbeddedResource Include="obj\Release\ISRC.Web.Controls.CheckRight.resources" />
+    <EmbeddedResource Include="obj\Release\ISRC.Web.Controls.CopyRight1.resources" />
+    <EmbeddedResource Include="obj\Release\ISRC.Web.Global.resources" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\BLL\BLL.csproj">
@@ -4037,11 +4051,14 @@
     <Content Include="MasterPage.master" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="Components\" />
     <Folder Include="extjs\src\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="captcha.ashx" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="obj\Release\Web.csproj.GenerateResource.Cache" />
+    <Content Include="obj\Release\Web.csprojResolveAssemblyReference.cache" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>

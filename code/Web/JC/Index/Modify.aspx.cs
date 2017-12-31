@@ -1,10 +1,5 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Web;
-using System.Web.UI;
-using System.Web.UI.WebControls;
-using FineUI;
+﻿using FineUI;
+using System;
 using System.Data;
 
 namespace ISRC.Web.JC.Index
@@ -13,7 +8,7 @@ namespace ISRC.Web.JC.Index
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-            if(!IsPostBack)
+            if (!IsPostBack)
             {
                 LoadData();
             }
@@ -50,7 +45,6 @@ namespace ISRC.Web.JC.Index
                     }
                     ddlIndexCategory.Items.Add(Items);
                 }
-
             }
             else if (IndexType == "0")
             {

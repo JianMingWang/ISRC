@@ -1,20 +1,12 @@
-﻿using System;
-using FineUI;
+﻿using FineUI;
+using System;
 using System.Data;
-using System.Configuration;
-using System.Collections;
-using System.Web;
-using System.Web.Security;
-using System.Web.UI;
-using System.Web.UI.WebControls;
-using System.Web.UI.WebControls.WebParts;
-using System.Web.UI.HtmlControls;
 using System.Text;
-using Maticsoft.Common;
+using System.Web.UI;
 
 namespace ISRC.Web.JC.Region
 {
-    public partial class Modify : PageBase
+    public partial class Modify : System.Web.UI.Page
     {
 
         private StringBuilder condition = new StringBuilder();

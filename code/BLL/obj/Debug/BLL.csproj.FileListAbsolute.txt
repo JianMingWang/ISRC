@@ -302,20 +302,59 @@ D:\ScienceSystem\ISRC1203\BLL\bin\Debug\Maticsoft.Common.pdb
 D:\ScienceSystem\ISRC1203\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
 D:\ScienceSystem\ISRC1203\BLL\obj\Debug\ISRC.BLL.dll
 D:\ScienceSystem\ISRC1203\BLL\obj\Debug\ISRC.BLL.pdb
-C:\Users\Wong Jianming\Desktop\ISRC\code\BLL\bin\Debug\ISRC.BLL.dll
-C:\Users\Wong Jianming\Desktop\ISRC\code\BLL\bin\Debug\ISRC.BLL.pdb
-C:\Users\Wong Jianming\Desktop\ISRC\code\BLL\bin\Debug\ISRC.DAL.dll
-C:\Users\Wong Jianming\Desktop\ISRC\code\BLL\bin\Debug\ISRC.DBUtility.dll
-C:\Users\Wong Jianming\Desktop\ISRC\code\BLL\bin\Debug\ISRC.Model.dll
-C:\Users\Wong Jianming\Desktop\ISRC\code\BLL\bin\Debug\System.Data.SQLite.dll
-C:\Users\Wong Jianming\Desktop\ISRC\code\BLL\bin\Debug\MySql.Data.dll
-C:\Users\Wong Jianming\Desktop\ISRC\code\BLL\bin\Debug\OpenSmtp.dll
-C:\Users\Wong Jianming\Desktop\ISRC\code\BLL\bin\Debug\Excel.dll
-C:\Users\Wong Jianming\Desktop\ISRC\code\BLL\bin\Debug\COM.Excel.dll
-C:\Users\Wong Jianming\Desktop\ISRC\code\BLL\bin\Debug\ISRC.DAL.pdb
-C:\Users\Wong Jianming\Desktop\ISRC\code\BLL\bin\Debug\ISRC.DBUtility.pdb
-C:\Users\Wong Jianming\Desktop\ISRC\code\BLL\bin\Debug\ISRC.Model.pdb
-C:\Users\Wong Jianming\Desktop\ISRC\code\BLL\bin\Debug\Maticsoft.Common.pdb
-C:\Users\Wong Jianming\Desktop\ISRC\code\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
-C:\Users\Wong Jianming\Desktop\ISRC\code\BLL\obj\Debug\ISRC.BLL.dll
-C:\Users\Wong Jianming\Desktop\ISRC\code\BLL\obj\Debug\ISRC.BLL.pdb
+C:\Users\kylinnnn\Desktop\科技局项目完整代码及文档\代码\ISRC170113\BLL\bin\Debug\ISRC.BLL.dll
+C:\Users\kylinnnn\Desktop\科技局项目完整代码及文档\代码\ISRC170113\BLL\bin\Debug\ISRC.BLL.pdb
+C:\Users\kylinnnn\Desktop\科技局项目完整代码及文档\代码\ISRC170113\BLL\bin\Debug\ISRC.DAL.dll
+C:\Users\kylinnnn\Desktop\科技局项目完整代码及文档\代码\ISRC170113\BLL\bin\Debug\ISRC.DBUtility.dll
+C:\Users\kylinnnn\Desktop\科技局项目完整代码及文档\代码\ISRC170113\BLL\bin\Debug\ISRC.Model.dll
+C:\Users\kylinnnn\Desktop\科技局项目完整代码及文档\代码\ISRC170113\BLL\bin\Debug\System.Data.SQLite.dll
+C:\Users\kylinnnn\Desktop\科技局项目完整代码及文档\代码\ISRC170113\BLL\bin\Debug\MySql.Data.dll
+C:\Users\kylinnnn\Desktop\科技局项目完整代码及文档\代码\ISRC170113\BLL\bin\Debug\OpenSmtp.dll
+C:\Users\kylinnnn\Desktop\科技局项目完整代码及文档\代码\ISRC170113\BLL\bin\Debug\Excel.dll
+C:\Users\kylinnnn\Desktop\科技局项目完整代码及文档\代码\ISRC170113\BLL\bin\Debug\COM.Excel.dll
+C:\Users\kylinnnn\Desktop\科技局项目完整代码及文档\代码\ISRC170113\BLL\bin\Debug\ISRC.DAL.pdb
+C:\Users\kylinnnn\Desktop\科技局项目完整代码及文档\代码\ISRC170113\BLL\bin\Debug\ISRC.DBUtility.pdb
+C:\Users\kylinnnn\Desktop\科技局项目完整代码及文档\代码\ISRC170113\BLL\bin\Debug\ISRC.Model.pdb
+C:\Users\kylinnnn\Desktop\科技局项目完整代码及文档\代码\ISRC170113\BLL\bin\Debug\Maticsoft.Common.pdb
+C:\Users\kylinnnn\Desktop\科技局项目完整代码及文档\代码\ISRC170113\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\kylinnnn\Desktop\科技局项目完整代码及文档\代码\ISRC170113\BLL\obj\Debug\ISRC.BLL.dll
+C:\Users\kylinnnn\Desktop\科技局项目完整代码及文档\代码\ISRC170113\BLL\obj\Debug\ISRC.BLL.pdb
+D:\项目\科技局项目完整代码及文档\代码\ISRC170113\BLL\bin\Debug\ISRC.BLL.dll
+D:\项目\科技局项目完整代码及文档\代码\ISRC170113\BLL\bin\Debug\ISRC.BLL.pdb
+D:\项目\科技局项目完整代码及文档\代码\ISRC170113\BLL\bin\Debug\ISRC.DAL.dll
+D:\项目\科技局项目完整代码及文档\代码\ISRC170113\BLL\bin\Debug\ISRC.DBUtility.dll
+D:\项目\科技局项目完整代码及文档\代码\ISRC170113\BLL\bin\Debug\ISRC.Model.dll
+D:\项目\科技局项目完整代码及文档\代码\ISRC170113\BLL\bin\Debug\System.Data.SQLite.dll
+D:\项目\科技局项目完整代码及文档\代码\ISRC170113\BLL\bin\Debug\MySql.Data.dll
+D:\项目\科技局项目完整代码及文档\代码\ISRC170113\BLL\bin\Debug\ISRC.DAL.pdb
+D:\项目\科技局项目完整代码及文档\代码\ISRC170113\BLL\bin\Debug\ISRC.DBUtility.pdb
+D:\项目\科技局项目完整代码及文档\代码\ISRC170113\BLL\bin\Debug\ISRC.Model.pdb
+D:\项目\科技局项目完整代码及文档\代码\ISRC170113\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+D:\项目\科技局项目完整代码及文档\代码\ISRC170113\BLL\obj\Debug\ISRC.BLL.dll
+D:\项目\科技局项目完整代码及文档\代码\ISRC170113\BLL\obj\Debug\ISRC.BLL.pdb
+C:\Users\Wong Jianming\Desktop\ISRC171222\BLL\bin\Debug\ISRC.BLL.dll
+C:\Users\Wong Jianming\Desktop\ISRC171222\BLL\bin\Debug\ISRC.BLL.pdb
+C:\Users\Wong Jianming\Desktop\ISRC171222\BLL\bin\Debug\ISRC.DAL.dll
+C:\Users\Wong Jianming\Desktop\ISRC171222\BLL\bin\Debug\ISRC.DBUtility.dll
+C:\Users\Wong Jianming\Desktop\ISRC171222\BLL\bin\Debug\ISRC.Model.dll
+C:\Users\Wong Jianming\Desktop\ISRC171222\BLL\bin\Debug\System.Data.SQLite.dll
+C:\Users\Wong Jianming\Desktop\ISRC171222\BLL\bin\Debug\MySql.Data.dll
+C:\Users\Wong Jianming\Desktop\ISRC171222\BLL\bin\Debug\ISRC.DAL.pdb
+C:\Users\Wong Jianming\Desktop\ISRC171222\BLL\bin\Debug\ISRC.DBUtility.pdb
+C:\Users\Wong Jianming\Desktop\ISRC171222\BLL\bin\Debug\ISRC.Model.pdb
+C:\Users\Wong Jianming\Desktop\ISRC171222\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\Wong Jianming\Desktop\ISRC171222\BLL\obj\Debug\ISRC.BLL.dll
+C:\Users\Wong Jianming\Desktop\ISRC171222\BLL\obj\Debug\ISRC.BLL.pdb
+C:\Users\Wong Jianming\Desktop\ISRC\code1224\BLL\bin\Debug\ISRC.BLL.dll
+C:\Users\Wong Jianming\Desktop\ISRC\code1224\BLL\bin\Debug\ISRC.BLL.pdb
+C:\Users\Wong Jianming\Desktop\ISRC\code1224\BLL\bin\Debug\ISRC.DAL.dll
+C:\Users\Wong Jianming\Desktop\ISRC\code1224\BLL\bin\Debug\ISRC.DBUtility.dll
+C:\Users\Wong Jianming\Desktop\ISRC\code1224\BLL\bin\Debug\ISRC.Model.dll
+C:\Users\Wong Jianming\Desktop\ISRC\code1224\BLL\bin\Debug\System.Data.SQLite.dll
+C:\Users\Wong Jianming\Desktop\ISRC\code1224\BLL\bin\Debug\MySql.Data.dll
+C:\Users\Wong Jianming\Desktop\ISRC\code1224\BLL\bin\Debug\ISRC.DAL.pdb
+C:\Users\Wong Jianming\Desktop\ISRC\code1224\BLL\bin\Debug\ISRC.DBUtility.pdb
+C:\Users\Wong Jianming\Desktop\ISRC\code1224\BLL\bin\Debug\ISRC.Model.pdb
+C:\Users\Wong Jianming\Desktop\ISRC\code1224\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\Wong Jianming\Desktop\ISRC\code1224\BLL\obj\Debug\ISRC.BLL.dll
+C:\Users\Wong Jianming\Desktop\ISRC\code1224\BLL\obj\Debug\ISRC.BLL.pdb

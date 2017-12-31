@@ -87,7 +87,7 @@ namespace ISRC.DAL
 					new SqlParameter("SQL2012OderID", SqlDbType.VarChar,64),
                     new SqlParameter("SQL2012FatherID", SqlDbType.VarChar,64),
 					new SqlParameter("SQL2012ID", SqlDbType.VarChar,64),
-                    new SqlParameter("SQL2012Cycle", SqlDbType.VarChar,64),
+                    new SqlParameter("SQL2012Cycle", SqlDbType.Char,1),
                     new SqlParameter("SQL2012MultiIndex", SqlDbType.VarChar,64)};
             parameters[0].Value = model.Name;
             parameters[1].Value = model.Description;
@@ -177,9 +177,9 @@ namespace ISRC.DAL
         }
 
 
-		/// <summary>
-		/// 得到一个对象实体
-		/// </summary>
+        /// <summary>
+        /// 得到一个对象实体
+        /// </summary>
         public ISRC.Model.T_Index DataRowToModel(DataRow row)
         {
             ISRC.Model.T_Index model = new ISRC.Model.T_Index();
@@ -211,7 +211,7 @@ namespace ISRC.DAL
                 }
                 if (row["MultiIndex"] != null)
                 {
-                    model.Cycle = row["MultiIndex"].ToString();
+                    model.MultiIndex = row["MultiIndex"].ToString();
                 }
             }
             return model;
